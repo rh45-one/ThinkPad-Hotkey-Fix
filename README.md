@@ -32,4 +32,4 @@
 
 [csavalas]:https://github.com/csavalas
 [Lenovo Vantage]:https://apps.microsoft.com/detail/9wzdncrfj4mv
-[latest release]: 
+[latest release]:https://github.com/OhShoot01/ThinkPad-Hotkey-Fix/releases/
