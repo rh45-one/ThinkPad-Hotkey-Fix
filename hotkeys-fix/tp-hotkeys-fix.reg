@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Lenovo\ShortcutKey\AppLaunch\Ex_96]
+"AppType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Lenovo\ShortcutKey\AppLaunch\Ex_96\Desktop]
+"File"="C:\\Windows\\System32\\wscript.exe"
+"Parameters"="\"C:\\your\\path\\here\\ex_96.vbs\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Lenovo\ShortcutKey\AppLaunch\Ex_97]
+"AppType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Lenovo\ShortcutKey\AppLaunch\Ex_97\Desktop]
+"File"="C:\\Windows\\System32\\wscript.exe"
+"Parameters"="\"C:\\your\\path\\here\\ex_97.vbs\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Lenovo\ShortcutKey\AppLaunch\Ex_98]
+"AppType"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Lenovo\ShortcutKey\AppLaunch\Ex_98\Desktop]
+"File"="C:\\Windows\\System32\\wscript.exe"
+"Parameters"="\"C:\\your\\path\\here\\ex_98.vbs\""
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Teams]
